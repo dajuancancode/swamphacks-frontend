@@ -13,17 +13,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --open"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/christian108108/Spotify-Matchmaker.git"
-  },
   "author": "",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/christian108108/Spotify-Matchmaker/issues"
-  },
-  "proxy": "http://localhost:8888/",
-  "homepage": "https://github.com/christian108108/Spotify-Matchmaker#readme",
   "keywords": [],
   "devDependencies": {
     "@babel/core": "^7.2.2",
